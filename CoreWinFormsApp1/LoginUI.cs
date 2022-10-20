@@ -55,7 +55,7 @@ namespace CoreWinFormsApp1
 
         private void LoginUI_FormClosing(object sender, FormClosingEventArgs e)
         {
-            Application.Exit();
+            Application.Exit(); 
         }
     }
 }
